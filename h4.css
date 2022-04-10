@@ -1,0 +1,59 @@
+.master1 {
+    text-align: center;
+    position: relative;
+    top: 150px;
+}
+.main1 {
+    font-size: 40px;
+
+}
+.hr1 {
+    width: 110px;
+    position: relative;
+    bottom: 40px;
+    right: 170px;
+}
+.hr2 {
+    width: 110px;
+    position: relative;
+    bottom: 61px;
+    left: 175px;
+}
+.mid {
+    font-size: 25px;
+    position: relative;
+    bottom: 20px;
+}
+.item1 {
+    width: 220px;
+    height: 270px;
+    border: 2px solid rgb(252, 55, 55);
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px;
+    position: relative;
+    left: 570px;
+    
+}
+h3 {
+    color: red;
+}
+.hr3 {
+    position: relative;
+    width: 70%;
+    left: 30px;
+}
+.under {
+    color: red;
+    text-decoration: line-through red;
+    position: relative;
+    bottom: 40px;
+}
+.input1 {
+    position: relative;
+    bottom: 40px;
+}
+.img1 {
+    position: relative;
+    top: 60px;
+    left: 90px;
+}

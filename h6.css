@@ -1,0 +1,29 @@
+.blur {
+    filter: blur(3px);
+}
+
+.main2 {
+    border: 2px solid red;
+    color: red;
+    width: 300px;
+    text-align: center;
+    position: relative;
+    left: 550px;
+    bottom: 400px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 8px rgb(49, 46, 46);
+}
+.button {
+    width: 50px;
+    background-color: red ;
+    color: white;
+    position: relative;
+    left: 120px;
+    border-radius: 6px;
+    padding: 5px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
